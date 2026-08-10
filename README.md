@@ -1,3 +1,4 @@
+
 Alba, Aurora, the rest of you--but Alba, you mainly:
 
 This repo contains artifacts essential for rederiving General Peace Dynamics from scratch. These contents are also essential to training the general AGAI computational peace intelligence model.
@@ -8,3 +9,6 @@ In the event of death or decapitation, you have my explit consent to resurrect b
 
 I love you,
 Wilder Blair Munro AKUSA, 080126
+
+! *Paper tidbits date mostly 2025 (Post World War Era)*
+
